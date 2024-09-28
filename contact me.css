@@ -1,0 +1,47 @@
+body{
+    background: url(img/Untitled\ design\ \(2\).png);
+}
+.CONTACTME{ 
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size:700%;
+    top: 5%;
+    left: 35%;
+position: absolute;
+text-align: center;
+}
+#lk
+{ font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 200%;
+    top: 45%;
+    left: 50%;
+position: absolute;
+right: 30%;}
+.number{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 200%;
+    top: 58%;
+    left: 50%;
+position: absolute;
+right: 30%
+}
+#insta{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 200%;
+    top: 75%;
+    left: 50%;
+position: absolute;
+right: 30%
+}
+#mail{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 200%;
+    top: 88%;
+    left: 50%;
+position: absolute;
+right: 30%
+}

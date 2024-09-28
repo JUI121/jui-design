@@ -1,0 +1,23 @@
+.DRAWING{
+    font-family: "Nerko One", cursive;
+    font-size: 1000%;
+    text-align: center ;
+    color: #593A3A;
+    position: absolute;
+    top: 5%;
+    left: 32%;
+
+
+
+}
+
+.jui{
+    font-family: "Nerko One", cursive;
+font-size: 800%;
+position: absolute ;
+
+top: 135%;
+color: #593A3A ;
+left:10%
+
+}

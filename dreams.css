@@ -1,0 +1,35 @@
+body{
+     background-image:url(img/Untitled\ design\ \(20\).png);
+}
+h5{
+     text-align: center;
+     position: absolute;
+     top: 53%;
+     color: #000000;
+     font-family:"Nerko One", cursive;
+     font-size: 150%;
+     left: 22%;
+     right: 10%;
+ }
+ h2{
+    
+     position: absolute;
+    
+     top: 45%;
+     color: #000000;
+     font-family:"Nerko One", cursive;
+     position: absolute;
+     right: 30%;
+
+ 
+     left:40%;
+     
+ }
+.DREAMS{
+    font-family: "Nerko One", cursive;
+    font-size: 1000%;
+    text-align: center ;
+    color: #000000;
+    
+    
+}

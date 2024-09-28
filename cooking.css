@@ -1,0 +1,36 @@
+.s{
+    position: absolute;
+    color: #593A3A;
+    font-family: "Nerko One", cursive;
+    top:175% ;
+    left: 55%;
+font-size: 700%;
+}
+.pb{ position: absolute;
+    color: #593A3A;
+    font-family: "Nerko One", cursive;
+    top:280% ;
+    left: 55%;
+font-size: 700%;}
+.pp{
+    position: absolute;
+    color: #593A3A;
+    font-family: "Nerko One", cursive;
+    top:395% ;
+    left: 55%;
+font-size: 700%;
+}
+.cb{position: absolute;
+    color: #593A3A;
+    font-family: "Nerko One", cursive;
+    top:490% ;
+    left: 55%;
+font-size: 700%;}
+.bc{
+    position: absolute;
+    color: #593A3A;
+    font-family: "Nerko One", cursive;
+    top:610% ;
+    left: 55%;
+font-size: 700%;
+}

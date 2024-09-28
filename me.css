@@ -1,0 +1,41 @@
+body{
+    background-image: url(img/ABOUT\ \(4\).png);
+}
+.me{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 150%;
+    top: 10%;
+    left: 10%;
+position: absolute;
+right: 30%
+
+}
+.me1
+{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 150%;
+    top:68%;
+    left: 38%;
+position: absolute;
+right: 15%
+}
+.me2
+{   font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 800%;
+    top: 35%;
+    left: 5%;
+position: absolute;
+right: 30%
+}
+
+.me3{   font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 1500%;
+    top: 25%;
+    left: 40%;
+position: absolute;
+right: 30% 
+}

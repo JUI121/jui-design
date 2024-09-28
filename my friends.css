@@ -1,0 +1,22 @@
+body{
+    background-image:url(img/Untitled\ design\ \(25\).png);
+}
+.FRIENDS{
+    font-family: "Nerko One", cursive;
+    font-size: 1000%;
+    left: 30%;
+    right: 10%;
+    position: absolute;
+    color: #000000;
+    top:1%;
+}
+.frnds{
+    font-family:"Nerko One", cursive;
+    color: #000000;
+    font-size: 200%;
+    top: 30%;
+    left: 30%;
+position: absolute;
+right: 30%;
+text-align: center;
+}

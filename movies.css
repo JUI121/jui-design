@@ -1,0 +1,10 @@
+.MOVIES{
+    font-family: "Nerko One", cursive;
+    font-size: 1000%;
+    left: 30%;
+    right: 10%;
+    position: absolute;
+    color: #000000;
+    top:1%;
+}
+
